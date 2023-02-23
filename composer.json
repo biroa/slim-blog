@@ -7,5 +7,10 @@
         "slim/slim": "^4.11",
         "slim/twig-view": "^3.3",
         "twig/intl-extra": "^3.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "MarkdownBlog\\": "src/Blog"
+        }
     }
 }
