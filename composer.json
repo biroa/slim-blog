@@ -1,0 +1,11 @@
+{
+    "require": {
+        "mnapoli/front-yaml": "^2.0",
+        "michelf/php-markdown": "^2.0",
+        "php-di/php-di": "^7.0",
+        "slim/psr7": "^1.6",
+        "slim/slim": "^4.11",
+        "slim/twig-view": "^3.3",
+        "twig/intl-extra": "^3.5"
+    }
+}
